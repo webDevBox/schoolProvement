@@ -1,0 +1,1 @@
+[06-Feb-2020 09:28:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leadsdev/public_html/nick/todo/app/Http/Controllers/schoolapi.php on line 9

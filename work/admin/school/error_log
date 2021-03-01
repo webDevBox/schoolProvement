@@ -1,0 +1,11 @@
+[16-Apr-2020 08:17:48 UTC] PHP Notice:  Undefined variable: status in /home/leadsdev/public_html/frontend/admin/school/schoolreport.php on line 62
+[16-Apr-2020 08:17:48 UTC] PHP Notice:  Undefined variable: status in /home/leadsdev/public_html/frontend/admin/school/schoolreport.php on line 73
+[16-Apr-2020 08:17:48 UTC] PHP Notice:  Undefined variable: status in /home/leadsdev/public_html/frontend/admin/school/schoolreport.php on line 85
+[16-Apr-2020 08:17:48 UTC] PHP Notice:  Undefined variable: status in /home/leadsdev/public_html/frontend/admin/school/schoolreport.php on line 112
+[20-Jun-2020 02:40:06 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Jun-2020 02:41:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Jun-2020 02:41:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Jun-2020 02:41:30 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Jun-2020 02:41:31 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 05:33:21 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 05:35:55 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0

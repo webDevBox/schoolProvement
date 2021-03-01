@@ -1,0 +1,185 @@
+[24-Feb-2020 06:35:10 UTC] PHP Warning:  Division by zero in /home/leadsdev/public_html/school/super/teacherDetail.php on line 73
+[24-Feb-2020 06:35:40 UTC] PHP Warning:  Division by zero in /home/leadsdev/public_html/school/super/teacherDetail.php on line 73
+[24-Feb-2020 06:35:40 UTC] PHP Warning:  Division by zero in /home/leadsdev/public_html/school/super/teacherDetail.php on line 73
+[24-Feb-2020 08:20:07 UTC] PHP Warning:  Division by zero in /home/leadsdev/public_html/school/super/teacherDetail.php on line 73
+[24-Feb-2020 08:52:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leadsdev/public_html/school/super/teacher.php on line 25
+[24-Feb-2020 08:54:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leadsdev/public_html/school/super/teacher.php on line 25
+[24-Feb-2020 08:58:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leadsdev/public_html/school/super/teacher.php on line 25
+[24-Feb-2020 08:58:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leadsdev/public_html/school/super/teacher.php on line 25
+[24-Feb-2020 08:59:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leadsdev/public_html/school/super/teacher.php on line 25
+[24-Feb-2020 09:07:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leadsdev/public_html/school/super/teacher.php on line 25
+[24-Feb-2020 09:08:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leadsdev/public_html/school/super/teacher.php on line 25
+[19-May-2020 11:28:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 246
+[19-May-2020 11:33:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 246
+[19-May-2020 11:33:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 246
+[19-May-2020 11:33:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 246
+[19-May-2020 11:33:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 246
+[19-May-2020 12:20:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 246
+[19-May-2020 12:22:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 244
+[19-May-2020 12:23:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 244
+[19-May-2020 12:23:28 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 244
+[19-May-2020 12:23:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 244
+[19-May-2020 12:23:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 244
+[19-May-2020 12:23:41 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 244
+[19-May-2020 12:24:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 241
+[19-May-2020 12:25:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 241
+[19-May-2020 12:25:10 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 241
+[19-May-2020 12:25:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 238
+[19-May-2020 12:25:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 238
+[19-May-2020 12:50:29 America/Chicago] PHP Notice:  Array to string conversion in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 38
+[19-May-2020 12:50:30 America/Chicago] PHP Notice:  Array to string conversion in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 187
+[19-May-2020 13:04:12 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 16
+[19-May-2020 13:04:12 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 16
+[19-May-2020 13:04:12 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 16
+[19-May-2020 13:04:12 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 16
+[21-May-2020 05:02:17 America/Chicago] PHP Fatal error:  Cannot declare class Firebase, because the name is already in use in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 23
+[21-May-2020 05:09:50 America/Chicago] PHP Fatal error:  Cannot declare class Firebase, because the name is already in use in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 24
+[21-May-2020 05:12:12 America/Chicago] PHP Fatal error:  Cannot declare class Push, because the name is already in use in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 97
+[21-May-2020 05:18:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function sendToTopic() on null in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 20
+[21-May-2020 05:18:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function sendToTopic() on null in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 20
+[21-May-2020 05:18:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function sendToTopic() on null in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 20
+[21-May-2020 05:21:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Firebase' not found in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 28
+[21-May-2020 05:24:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Firebase' not found in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 28
+[21-May-2020 05:24:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Firebase' not found in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 28
+[21-May-2020 05:24:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Firebase' not found in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 28
+[24-May-2020 01:14:03 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 175
+[24-May-2020 01:14:03 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 176
+[24-May-2020 01:19:23 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 175
+[24-May-2020 01:19:23 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 176
+[24-May-2020 01:19:23 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 175
+[24-May-2020 01:19:23 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 176
+[24-May-2020 01:19:24 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 175
+[24-May-2020 01:19:24 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 176
+[24-May-2020 01:19:24 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 175
+[24-May-2020 01:19:24 America/Chicago] PHP Notice:  Undefined index: school in /home3/nickcanfield/schoolprovement.com/admin/super/notification.php on line 176
+[19-Jun-2020 02:59:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 02:59:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 02:59:21 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 02:59:38 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 02:59:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 03:00:09 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 03:02:44 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 03:02:47 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 03:03:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 03:03:09 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 03:03:12 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jun-2020 03:07:40 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:32:22 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:32:22 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:32:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:35:59 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:36:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:36:29 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:37:00 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:37:14 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:38:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:38:52 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:39:28 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:39:31 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:39:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:39:37 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:39:50 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:40:14 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:40:15 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:40:19 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:40:24 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:40:44 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:41:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:41:14 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:46:16 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:46:28 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:49:47 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:49:54 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:50:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:50:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:50:16 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:50:20 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:50:24 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:50:26 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:50:30 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jun-2020 01:50:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[30-Jun-2020 23:05:12 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[30-Jun-2020 23:05:29 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[30-Jun-2020 23:08:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[30-Jun-2020 23:25:55 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[30-Jun-2020 23:25:57 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[30-Jun-2020 23:29:09 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[30-Jun-2020 23:51:42 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 02:37:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 02:37:05 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 02:37:19 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:32:16 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:32:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:32:28 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:32:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:32:59 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:34:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:42:42 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:42:50 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:42:53 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:53:18 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:53:22 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:02:57 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:03:52 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:03:52 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:04:14 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:04:44 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:04:49 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:05:09 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:05:12 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:05:16 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:05:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:05:25 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:05:52 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:05:57 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:06:00 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:10:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:11:19 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:11:20 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:11:25 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:11:39 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:11:50 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:11:53 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:12:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:12:48 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:56:10 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:56:12 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:56:18 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:57:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:57:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:57:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:57:39 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:57:40 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:57:42 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:57:53 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Jul-2020 03:02:55 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Jul-2020 03:03:21 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Jul-2020 03:03:22 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Jul-2020 03:03:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Jul-2020 03:03:47 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Jul-2020 03:03:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Jul-2020 07:23:49 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Jul-2020 07:23:50 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Jul-2020 07:23:54 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Jul-2020 07:23:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SchoolProvement</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <link href="../style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script type="text/javascript" src="../jquery.js"></script>
+</head>
+<body>
+    <header class="header ">
+         <nav class="navbar navbar-expand-lg navbar-light">
+                <a class="navbar-brand" href="index.html"> <img class="logo1" src="../images/logo1.png"> <img class="logo2" src="../images/logo2.png"> </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    
+                </button>
+              
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                      <a class="nav-link btn"><img src="https://img.icons8.com/dotty/20/000000/login-rounded-right.png"> <span class="mx-1">SIGN IN </span></a>
+                    </li>
+                    <div class="form-popup" id="myForm" style="display: none;">
+                        <form action="log.php" method="post" class="form-container">
+                            <br><br>
+                          <h1>Sign In</h1>
+                         
+                          <input class="form-control" type="text" placeholder="Enter User Name" name="uname" required><br>
+                      
+                          
+                          <input class="form-control" type="password" placeholder="Enter Password" name="pass" required>
+                         
+                      <br>
+                      <input type="submit" name="signin" id="submit" value="Sign In" class="btn btn-primary">
+                         
+                          
+                      
+            <a href="#" id="forbtn" class="btn btn-success"> Forgot Password </a>
+                        </form>
+                      </div>
+                  </ul>
+                </div>
+              </nav>
+    </header>
+    
+    <div  class="bg" style="background-color: #464644">
+        <h1 class="text-center" style="padding-top:20px; padding-bottom:20px; color: white;">School Provement Portal</h1>
+        <div id="forgot" style="display: none;" class="mx-auto col-5">
+          <form action="forgot.php" method="post" class="form-container">
+              
+            <h1 class="text-center text-white">Forgot Password</h1>
+            
+            <br>
+            <input class="form-control" type="text" placeholder="Enter User Name" name="uname" required><br>
+        
+        <br>
+      <center>  <input type="submit" name="forgot" id="submit" value="Submit" class="btn btn-primary"> 
+        <a href="#" id="close" class="btn btn-danger ml-3"> Close </a>
+      </center>
+           
+          </form>
+        </div>
+    </div>
+
+        <script>
+          $(".btn").click(function()
+          {
+            if($(".form-popup").css("display")=="none")
+            {
+              $(".form-popup").fadeIn("slow");
+            }
+            else{
+              $(".form-popup").fadeOut("slow");
+            }
+          });
+        </script>
+
+        <script>
+          $("#forbtn").click(function()
+          {
+           if($("#forgot").css("display")=="none")
+            {
+              $("#forgot").fadeIn("slow");
+            }
+            else{
+              $("#forgot").fadeOut("slow");
+            }
+          });
+          $("#close").click(function()
+          {
+            $("#forgot").fadeOut("slow");
+          });
+        </script>
+
+</body>
+</html>

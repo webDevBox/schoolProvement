@@ -1,0 +1,114 @@
+
+// get('feedback/{id}/{type}/{feedbackby_id}) 
+// URL:          https://leadsdeveloper.com/nick/todo/public/feedback/1/parent/2 
+// parameters:   rating= 
+//               reviews=
+//               type=
+
+// get('schoolfeedback/{id}/{type}/{feedbackby_id}');
+// URL:          https://leadsdeveloper.com/nick/todo/public/schoolfeedback/1/parent/1 
+// parameters:   rating= 
+//               reviews= 
+
+// get('studentSignup');
+// URL:          https://leadsdeveloper.com/nick/todo/public/studentSignup 
+// parameters:   student_anonymous_name= 
+//               student_email=
+//               student_password=
+//              student_country=
+//              school_id=
+//              student_state=
+//              student_district=
+
+// get('parentSignup');
+// URL:          https://leadsdeveloper.com/nick/todo/public/parentSignup 
+// parameters:   parent_anonymous_name= 
+//               parent_email=
+//               student_password=
+//              parent_country=
+//              parent_state=
+//              parent_district=
+
+// get('communitySignup');
+// URL:          https://leadsdeveloper.com/nick/todo/public/communitySignup 
+// parameters:   community_anonymous_name= 
+//               community_email=
+//               community_password=
+//              community_country=
+//              community_state=
+//              community_district=
+
+// get('studentLogin');
+// URL:          https://leadsdeveloper.com/nick/todo/public/studentLogin 
+// parameters:   student_anonymous_name=zishanaliq 
+//               student_password=asdasd
+
+// get('parentLogin');
+// URL:          https://leadsdeveloper.com/nick/todo/public/parentLogin 
+// parameters:   parent_anonymous_name=zishanaliq 
+//               parent_password=asdasd
+
+// get('communityLogin');
+// URL:          https://leadsdeveloper.com/nick/todo/public/communityLogin 
+// parameters:   community_anonymous_name=zishanaliq 
+//               community_password=asdasd
+
+// get('studentProfileUpdate/{id}');
+// URL:          https://leadsdeveloper.com/nick/todo/public/studentProfileUpdate/3 
+// parameters:   student_anonymous_name= 
+//               student_email=
+//               student_password=
+//              student_country=
+//              school_id=
+//              student_state=
+//              student_district=
+
+// get('studentProfileShow/{id}');
+// URL:          https://leadsdeveloper.com/nick/todo/public/studentProfileShow/3 
+// parameters:   No Parameter
+
+// get('reportAttendance/{id}/{school_id}
+// https://leadsdeveloper.com/nick/todo/public/reportAttendance/1/1 
+//   reportAbsence_date=11/20/20
+//   reportAbsence_shift=morning
+//   reason=asdad
+
+// get('reportSurvey/{report_id}/{choice}'
+//https://leadsdeveloper.com/nick/todo/public/reportSurvey/1/1
+
+// get('parentProfileUpdate/{id}'
+//  https://leadsdeveloper.com/nick/todo/public/parentProfileUpdate/1
+// 	   $parent_anonymous_name;
+// 		parent_email;
+// 		parent_password;
+// 		parent_country;
+// 		parent_state;
+// 		parent_district;
+
+// get('parentProfileShow/{id}
+// https://leadsdeveloper.com/nick/todo/public/parentProfileShow/1
+
+// get('communityProfileUpdate/{id}
+// https://leadsdeveloper.com/nick/todo/public/communityProfileUpdate/1
+			 //	community_anonymous_name;
+			 // community_email;
+			 // community_password;
+			 // community_country;
+			 // community_state;
+			 // community_district;
+
+// get('communityProfileShow/{id}
+// https://leadsdeveloper.com/nick/todo/public/communityProfileShow/1
+
+// get('insertFollow/{id}/{followerrole}/{followby_id}/{followbyrole}
+// https://leadsdeveloper.com/nick/todo/public/insertFollow/1/parent/1/teacher
+
+
+// get('showFollowedSchools/{follower_id}/{role}'
+// https://leadsdeveloper.com/nick/todo/public/showFollowedSchools/1/parent
+
+// get('showFollowedSchoolsTeachers/{ school_id}'
+// https://leadsdeveloper.com/nick/todo/public/showFollowedSchoolsTeachers/1
+
+// get('showFollowedTeacher/{follwer_id}/{role}'
+// https://leadsdeveloper.com/nick/todo/public/showFollowedTeacher/3/community

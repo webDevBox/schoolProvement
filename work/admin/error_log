@@ -1,0 +1,70 @@
+[16-Apr-2020 08:04:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/leadsdev/public_html/frontend/admin/conn.php on line 2
+[16-Apr-2020 08:04:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/leadsdev/public_html/frontend/admin/log.php on line 93
+[16-Apr-2020 08:04:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/leadsdev/public_html/frontend/admin/log.php on line 93
+[16-Apr-2020 08:04:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/leadsdev/public_html/frontend/admin/log.php on line 100
+[16-Apr-2020 08:04:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/leadsdev/public_html/frontend/admin/log.php on line 118
+[16-Apr-2020 08:04:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/leadsdev/public_html/frontend/admin/log.php on line 119
+[16-Apr-2020 08:04:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/leadsdev/public_html/frontend/admin/log.php on line 120
+[16-Apr-2020 08:05:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/leadsdev/public_html/frontend/admin/conn.php on line 2
+[16-Apr-2020 08:05:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/leadsdev/public_html/frontend/admin/log.php on line 93
+[16-Apr-2020 08:05:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/leadsdev/public_html/frontend/admin/log.php on line 93
+[16-Apr-2020 08:05:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/leadsdev/public_html/frontend/admin/log.php on line 100
+[16-Apr-2020 08:05:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/leadsdev/public_html/frontend/admin/log.php on line 118
+[16-Apr-2020 08:05:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/leadsdev/public_html/frontend/admin/log.php on line 119
+[16-Apr-2020 08:05:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/leadsdev/public_html/frontend/admin/log.php on line 120
+[16-Apr-2020 08:05:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/leadsdev/public_html/frontend/admin/conn.php on line 2
+[16-Apr-2020 08:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/leadsdev/public_html/frontend/admin/log.php on line 19
+[16-Apr-2020 08:05:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/leadsdev/public_html/frontend/admin/log.php on line 19
+[16-Apr-2020 08:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/leadsdev/public_html/frontend/admin/log.php on line 26
+[16-Apr-2020 08:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/leadsdev/public_html/frontend/admin/log.php on line 47
+[16-Apr-2020 08:05:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/leadsdev/public_html/frontend/admin/log.php on line 48
+[16-Apr-2020 08:05:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/leadsdev/public_html/frontend/admin/log.php on line 49
+[15-Jun-2020 09:20:19 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[15-Jun-2020 04:20:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home3/nickcanfield/schoolprovement.com/admin/conn.php:2
+Stack trace:
+#0 /home3/nickcanfield/schoolprovement.com/admin/log.php(3): include()
+#1 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/conn.php on line 2
+[15-Jun-2020 09:28:46 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[15-Jun-2020 04:28:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home3/nickcanfield/schoolprovement.com/admin/conn.php:2
+Stack trace:
+#0 /home3/nickcanfield/schoolprovement.com/admin/log.php(3): include()
+#1 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/conn.php on line 2
+[15-Jun-2020 11:44:17 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[15-Jun-2020 06:44:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home3/nickcanfield/schoolprovement.com/admin/conn.php:2
+Stack trace:
+#0 /home3/nickcanfield/schoolprovement.com/admin/log.php(3): include()
+#1 {main}
+  thrown in /home3/nickcanfield/schoolprovement.com/admin/conn.php on line 2
+[20-Jun-2020 02:40:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 02:35:48 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 02:36:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 02:37:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 03:42:50 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:03:18 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:03:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:04:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:05:38 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:06:13 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 04:12:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jul-2020 05:33:20 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:58:21 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:58:22 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:59:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 05:59:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 06:00:24 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 11:07:16 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jul-2020 11:07:57 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
